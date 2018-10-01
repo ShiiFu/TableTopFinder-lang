@@ -22,15 +22,15 @@ The website contains a lot of links to other websites, these links are merely in
         'title' => 'Häufig gestellte Fragen',
         'categories' => [
             'General' => [
-                'Wann werden die Brettspiel-Preise aktualisiert?' => 'Our servers are constantly updating the prices on the website. However, because of the huge amount of stores and board games that need updating, it can take up to 72 hours before a price update is registered.',
-                'Kann ich ein Brettspiel zu dieser Webseite hinzufügen oder es anfragen?' => 'You can most certainly request to add a board game on the website if it is not yet there. Feel free to use [the contact form](info.contact) to let us know what game is missing.',
-                'Könnt ihr meine Webseite / meinen Shop / mein Brettspiel auf dieser Seite bewerben?' => 'We are open to your advertising requests. You can contact us for more information through [the contact form](info.contact).'
+                'Wann werden die Brettspiel-Preise aktualisiert?' => 'Unsere Server aktualisieren ständig die Preise auf der Webseite. Aufgrund der extremen Anzahl an Shops und Brettspielen kann es allerdings bis zu 72 Stunden dauern, bevor eine Preisänderung registriert werden kann.',
+                'Kann ich ein Brettspiel zu dieser Webseite hinzufügen oder es anfragen?' => 'Du kannst sehr gerne ein Brettspiel anfragen, das wir noch nicht auf der Webseite haben. Nutze [das Kontaktformular](info.contact) um uns wissen zu lassen welches Spiel fehlt.',
+                'Könnt ihr meine Webseite / meinen Shop / mein Brettspiel auf dieser Seite bewerben?' => 'Wir sind offen für Werbe-Anfragen. Für mehr Informationen könnt ihr das [Kontaktformular](info.contact) nutzen.'
             ],
             'Board game publishers' => [
-                'Könnt ihr ein Review unseres Spiels auf eurer Seite veröffentlichen?' => 'Most certainly, if you could send us a copy/prototype so we can try the game out we are more than happy to write a good review about the game.'
+                'Könnt ihr ein Review unseres Spiels auf eurer Seite veröffentlichen?' => 'Falls ihr uns eine Kopie/einen Prototypen schicken könnt, damit wir das Spiel ausprobieren können wären wir mehr als froh ein gutes Review über das Spiel zu schreiben.'
             ],
             'Store Owners' => [
-                'Könnt ihr unseren Shop hinzufügen?' => 'Of course, we want this website to provide as much information as possible. Please use [the contact form](info.contact) to send us a link to your webstore and any information we might need.'
+                'Könnt ihr unseren Shop hinzufügen?' => 'Selbstverständlich, wir wollen die bestmöglichen Informationen auf unserer Webseite zeigen. Bitte nutzt [das Kontaktformular](info.contact) um uns einen Link zu eurem Shop und etwaige zusätzliche Informationen zu schicken.'
             ]
         ]
     ],
