@@ -2,17 +2,17 @@
 
 return [
     'cookie' => [
-        'button' => 'Okay, let\'s find boardgames!',
-        'text' => 'This website uses cookies to remember your preferences. By doing this we can modify the content to show what is most important to you.'
+        'button' => 'Okay, jetzt Brettspiele finden!',
+        'text' => 'Diese Webseite benutzt Cookies um sich an deine Vorlieben zu erinnern. Damit können wir den Inhalt der Seite anpassen, um dir das zu zeigen, was dir am Wichtigsten ist.'
     ],
 
     'footer' => [
-        'text' => '**TableTopFinder** is a project created by Jeroen Deviaene. This website gives you the possibility to find board games that you will like just by searching on a few keywords. And after that, we list the best European prices for these board games online.'
+        'text' => '**TableTopFinder** ist ein Projekt von Jeroen Deviaene. Diese Webseite ermöglicht es dir Brettspiele die du lieben wirst zu finden, nur indem du nach ein paar Stichwörtern suchst. Danach listen wir die besten Preise für diese Brettspiele in Europa auf.'
     ],
 
     'follow' => [
-        'facebook' => 'Follow us on Facebook',
-        'instagram' => 'Follow us on Instagram',
-        'twitter' => 'Follow us on Twitter'
+        'facebook' => 'Folge uns auf Facebook',
+        'instagram' => 'Folge uns auf Instagram',
+        'twitter' => 'Folge uns auf Twitter'
     ]
 ];

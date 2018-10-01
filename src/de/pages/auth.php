@@ -2,54 +2,54 @@
 
 return [
     'messages' => [
-        'aboutGameLists' => 'Add this game to one of your board game lists',
-        'aboutSubscription' => 'Subscribe to price changes for this board game',
-        'accountActivated' => '**Your account has been activated!**
-You will now be able to login and use all the website features.',
-        'accountCreated' => '**Your account has been successfuly created!**
-In a few moments you will receive an e-mail with an activation link for your account.',
-        'accountNotActivated' => 'Your account has not yet been activated.
-Check your mailbox for the activation mail.',
-        'addedToList' => 'The game has been added to the list [:list](:url).',
-        'addToGameList' => 'Add to board game list',
-        'createAccount' => 'Create an account',
-        'forgotPassword' => 'Forgot password',
-        'forgotPasswordInfo' => 'Enter your e-mail address to the left, we will send you a link so you can set a new password to your account.',
-        'invalidCredentials' => 'Invalid credentials',
-        'passwordIsReset' => '**Your password has been reset**
-You can now login using your newly set password.',
-        'passwordReset' => 'Reset your password',
-        'passwordResetInfo' => 'You can enter a new password for your account in these fields. The password will be updated and you will be able to login with this new password.',
-        'passwordResetSent' => '**Success!**
-A password reset link has been sent to your mailbox.',
-        'profilesaved' => 'Your profile has been saved',
-        'settingsSaved' => 'Your settings have been saved',
-        'subscriptionCreated' => 'The subscription was successfuly created.
-This can be modified on your profile page.',
-        'subscriptionInfo' => 'When the price for this game in the selected country falls below this value, you will receive a notification.',
-        'subscriptionRemove' => 'The subscription has been removed',
-        'subscriptionUpdate' => 'The subscription has been updated'
+        'aboutGameLists' => 'Dieses Spiel zu einer deiner Brettspiel-Listen hinzufügen',
+        'aboutSubscription' => 'Erstelle einen Preisalarm für dieses Brettspiel',
+        'accountActivated' => '**Dein Account wurde aktiviert!**
+Du kannst dich jetzt einloggen und alle Features der Webseite nutzen.',
+        'accountCreated' => '**Dein Account wurde erfolgreich erstellt!**
+In Kürze erhälst du eine E-Mail mit einem Aktivierungslink für deinen Account.',
+        'accountNotActivated' => 'Dein Account ist noch nicht aktiviert.
+Bitte prüfe deinen Posteingang für eine Aktivierungs-Email.',
+        'addedToList' => 'Das Spiel wurde zu deiner Liste [:list](:url) hinzugefügt.',
+        'addToGameList' => 'Zur Brettspiel-Liste hinzufügen',
+        'createAccount' => 'Account erstellen',
+        'forgotPassword' => 'Passwort vergessen',
+        'forgotPasswordInfo' => 'Gib links deine E-Mail-Adresse ein. Wir werden dir einen Link zuschicken, damit du ein neues Passwort vergeben kannst.',
+        'invalidCredentials' => 'Ungültige Zugangsdaten',
+        'passwordIsReset' => '**Dein Passwort wurde zurückgesetzt**
+Du kannst dich jetzt mit deinem neuen Passwort einloggen.',
+        'passwordReset' => 'Setze dein Passwort zurück',
+        'passwordResetInfo' => 'Du kannst in diesen Feldern ein neues Passwort für deinen Account eintragen. Das Passwort wird aktualisiert und du kannst dich mit deinem neuen Passwort einloggen.',
+        'passwordResetSent' => '**Erfolg!**
+Dir wurde ein Link zur Passwortzurücksetzung geschickt.',
+        'profilesaved' => 'Dein Profil wurde gespeichert',
+        'settingsSaved' => 'Deine Einstellungen wurden gespeichert',
+        'subscriptionCreated' => 'Der Preisalarm wurde erfolgreich erstellt.
+Er kann auf deiner Profilseite modifiziert werden.',
+        'subscriptionInfo' => 'Wenn der Preis dieses Spiels im gewählten Land unter diesen Wert fällt, erhälst du eine Benachrichtigung.',
+        'subscriptionRemove' => 'Der Preisalarm wurde entfernt',
+        'subscriptionUpdate' => 'Der Preisalarm wurde aktualisiert'
     ],
 
     'registerfeatures' => [
-        'events' => 'Find board game events and conferences arround you',
-        'lists' => 'Create board game lists to easily share with your friends',
-        'more' => 'More features are coming',
-        'notifications' => 'Receive notifications when a game goes below a certain price'
+        'events' => 'Finde Brettspiel-Events und Konferenzen in deiner Nähe',
+        'lists' => 'Erstelle Brettspiel-Listen die du einfach mit deinen Freunden teilen kannst',
+        'more' => 'Weitere Features sind unterwegs',
+        'notifications' => 'Erhalte Benachrichtungen wenn ein Spiel einen bestimmten Preis unterschreitet'
     ],
 
-    'accountinfo' => 'account information',
-    'emailnotifications' => 'e-mail notifications',
-    'gamegroups' => 'board game groups',
-    'lists' => 'boardgame lists',
+    'accountinfo' => 'accountinformationen',
+    'emailnotifications' => 'e-mail benachrichtigungen',
+    'gamegroups' => 'brettspielgruppen',
+    'lists' => 'brettspiel listen',
     'login' => 'login',
-    'loginregister' => 'Login / Create account',
-    'logout' => 'logout',
-    'maxprice' => 'max price',
-    'newsletter' => 'monthly newsletter',
-    'profile' => 'profile',
-    'register' => 'register',
-    'settings' => 'account settings',
-    'subscriptions' => 'subscriptions',
-    'subscriptionupdates' => 'subscription updates'
+    'loginregister' => 'Login / Account erstellen',
+    'logout' => 'ausloggen',
+    'maxprice' => 'maximaler preis',
+    'newsletter' => 'monatlicher newsletter',
+    'profile' => 'profil',
+    'register' => 'anmeldungen',
+    'settings' => 'accounteinstellungen',
+    'subscriptions' => 'preisalarm',
+    'subscriptionupdates' => 'preisalarm neuigkeiten'
 ];

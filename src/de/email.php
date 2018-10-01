@@ -2,21 +2,21 @@
 
 return [
     'accountactivation' => [
-        'preview' => 'Your registration on TableTopFinder is almost finished, here is your activation link',
+        'preview' => 'Deine Anmeldung auf TableTopFinder ist fast fertig. Hier ist dein Aktivierungs-Link',
         'intro' => 'Hi :displayname,
 
-Your registration on TableTopFinder is almost completed, all you have to do is click the link below to activate your account.',
-        'footer' => 'Have fun on the website!
-The TableTopFinder team',
-        'button' => 'Activate my account',
-        'subject' => 'Activate your TableTopFinder account'
+Deine Anmeldung auf TableTopFinder ist fast abgeschlossen, du musst nur noch auf den untenstehenden Link klicken um deinen Account zu bestätigen.',
+        'footer' => 'Viel Spaß auf der Webseite!
+Das TableTopFinder Team',
+        'button' => 'Meinen Account aktivieren',
+        'subject' => 'Aktiviere deinen TableTopFinder Account'
     ],
     'passwordforget' => [
-        'preview' => 'Your requested password reset link has arrived',
+        'preview' => 'Dein angefragter Link zur Passwort-Zurücksetzung ist angekommen',
         'intro' => 'Hi :displayname,
 
-A password reset link has been requested for your [TableTopFinder](https://www.tabletopfinder.eu/) account. Below you can find the link that will take you there.
-If you did not request this reset, just ignore this email.',
-        'button' => 'Reset my password',
+Es wurde ein Link zum Zurücksetzen des Passworts deines [TableTopFinder](https://www.tabletopfinder.eu/) Accounts angefordert. Klicke auf den untenstehenden Link um es zurückzusetzen.
+Falls der Link nicht von dir generiert wurde, kannst du diese E-Mail ignorieren.',
+        'button' => 'Mein Passwort zurücksetzen',
     ]
 ];

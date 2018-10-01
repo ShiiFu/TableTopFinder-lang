@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'introtxt' => '**TableTopFinder** is the biggest European board game database where you can easily find games by using keywords you remember. Start by choosing a category at the top or use the searchbar below to start your board game quest.'
+    'introtxt' => '**TableTopFinder** ist die größte europäische Brettspiel-Datenbank in der du einfach Spiele über Stichwörter suchen kannst, an die du dich erinnerst. Fange an, indem du oben eine Kategorie wählst oder unten die Suchleiste nutzt um dein Brettspiel-Abenteuer zu beginnen.'
 ];

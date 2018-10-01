@@ -2,14 +2,14 @@
 
 return [
     'titles' => [
-        'detail' => 'The best prices today for :game',
-        'expansionfor' => 'Expansion for :game|Expansions for :game',
-        'pricetable' => 'Online stores'
+        'detail' => 'Heutige Bestpreise für :game',
+        'expansionfor' => 'Erweiterung für :game|Erweiterungen für :game',
+        'pricetable' => 'Online Shops'
     ],
 
-    'hidedeliverycosts' => 'hide delivery costs',
-    'more_stores' => 'Display more stores',
-    'released' => 'released',
-    'stock' => 'stock|stocks',
-    'visit' => 'visit|visits'
+    'hidedeliverycosts' => 'versandkosten ausblenden',
+    'more_stores' => 'Weitere Shops anzeigen',
+    'released' => 'veröffentlicht',
+    'stock' => 'auf lager',
+    'visit' => 'besuch|besuche'
 ];
