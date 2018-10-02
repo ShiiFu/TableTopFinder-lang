@@ -3,8 +3,6 @@ This repository contains the translation files for [tabletopfinder.eu](https://w
 
 Consider adding your own language to the repository to browse the website in your own language and help us to expand the website.
 
-> :exclamation: These are the translation files for the new [TableTopFinder website](https://www.tabletopfinder.eu/) that will hopefully be live Q4 2018
-
 ## How can I help?
 The [`src`](src/) folder contains all translations, separated by language. The name of the folder is the [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) language code.
 
@@ -47,7 +45,7 @@ This is the current list of languages we are hoping to support:
 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/fr.svg" height="16" /> French  | fr | <pre>\|================    \|  81%</pre> |
 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/de.svg" height="16" /> German  | de | <pre>\|                    \|   0%</pre> |
 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/es.svg" height="16" /> Spanish | es | <pre>\|                    \|   0%</pre> |
-| <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/it.svg" height="16" /> Italian | it | <pre>\|                    \|   0%</pre> |
+| <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/it.svg" height="16" /> Italian | it | <pre>\|=                   \|   3%</pre> |
 
 ## Contributors
 We are very grateful for anyone who wants to help us to translate the website,
