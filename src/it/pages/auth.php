@@ -23,11 +23,11 @@ Ora puoi accedere utilizzando la nuova password.',
 Un link per la reimpostazione della password è stato inviato alla tua casella di posta.',
         'profilesaved' => 'Il tuo profilo è stato salvato',
         'settingsSaved' => 'Le tue impostazioni sono state salvate',
-        'subscriptionCreated' => 'L'iscrizione è stata creata con successo.
-Puoi modificarla sulla pagina del tuo profilo.',
+        'subscriptionCreated' => "L'iscrizione è stata creata con successo.
+Puoi modificarla sulla pagina del tuo profilo.",
         'subscriptionInfo' => 'Quando il prezzo per questo gioco nel paese selezionato scende al di sotto di questo valore, riceverai una notifica.',
-        'subscriptionRemove' => 'L'scrizione è stata eliminata',
-        'subscriptionUpdate' => 'L'iscrizione è stata aggiornata'
+        'subscriptionRemove' => "L'scrizione è stata eliminata",
+        'subscriptionUpdate' => "L'iscrizione è stata aggiornata"
     ],
     'registerfeatures' => [
         'events' => 'Trova eventi di gioco da tavolo e conferenze intorno a te',
