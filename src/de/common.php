@@ -5,7 +5,7 @@ return [
         'browse' => ':object durchsuchen',
         'browseMore' => 'weitere :object durchsuchen',
         'mostpopular' => 'beliebteste :object',
-        'newonwebsite' => 'Neuestes :object auf der Webseite',
+        'newonwebsite' => 'Neueste :object auf der Webseite',
         'publishedby' => ':object von :publisher veröffentlicht',
         'random' => 'zufällige :object',
         'remove' => 'entferne :object',
