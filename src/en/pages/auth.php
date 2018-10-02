@@ -6,7 +6,7 @@ return [
         'aboutSubscription' => 'Subscribe to price changes for this board game',
         'accountActivated' => '**Your account has been activated!**
 You will now be able to login and use all the website features.',
-        'accountCreated' => '**Your account has been successfuly created!**
+        'accountCreated' => '**Your account has been successfully created!**
 In a few moments you will receive an e-mail with an activation link for your account.',
         'accountNotActivated' => 'Your account has not yet been activated.
 Check your mailbox for the activation mail.',
@@ -24,7 +24,7 @@ You can now login using your newly set password.',
 A password reset link has been sent to your mailbox.',
         'profilesaved' => 'Your profile has been saved',
         'settingsSaved' => 'Your settings have been saved',
-        'subscriptionCreated' => 'The subscription was successfuly created.
+        'subscriptionCreated' => 'The subscription was successfully created.
 This can be modified on your profile page.',
         'subscriptionInfo' => 'When the price for this game in the selected country falls below this value, you will receive a notification.',
         'subscriptionRemove' => 'The subscription has been removed',
@@ -32,7 +32,7 @@ This can be modified on your profile page.',
     ],
 
     'registerfeatures' => [
-        'events' => 'Find board game events and conferences arround you',
+        'events' => 'Find board game events and conferences around you',
         'lists' => 'Create board game lists to easily share with your friends',
         'more' => 'More features are coming',
         'notifications' => 'Receive notifications when a game goes below a certain price'
