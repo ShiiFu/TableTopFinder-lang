@@ -38,7 +38,7 @@ return [
     'person' => 'person|personen',
     'player' => 'spieler',
     'price' => 'preis|preise',
-    'publisher' => 'publisher',
+    'publisher' => 'Hersteller',
     'readmore' => 'mehr lesen',
     'remove' => 'entfernen',
     'reset' => 'zurücksetzen',
