@@ -2,12 +2,12 @@
 
 return [
     'cookie' => [
-        'button' => 'Ok, muestrame juegos de mesa!',
-        'text' => 'Este sitio web usa cookies para recordar tus preferencias. De esta manera podemos modificar el contenido y mostrarte lo que más te interesa '
+        'button' => '¡Vale, encontremos juegos de mesa!',
+        'text' => 'Este sitio web utiliza cookies para recordar sus preferencias. Al hacer esto, podemos modificar el contenido para mostrar lo que es más importante para usted.'
     ],
 
     'footer' => [
-        'text' => '**TableTopFinder** es un proyecto creado por Jeroen Deviaene. Este sitio te da la posibilidad de encontrar juegos de mesa de tu agrado tan solo con buscar algunas palabras clave. Y luego listaremos los mejores precios europeos online de dichos juegos'
+        'text' => '**TableTopFinder** es un proyecto creado por Jeroen Deviaene. Este sitio web le ofrece la posibilidad de encontrar juegos de mesa que le gusten con solo buscar algunas palabras clave. Y después de eso, enumeramos los mejores precios europeos para estos juegos de mesa en línea. '
     ],
 
     'follow' => [
