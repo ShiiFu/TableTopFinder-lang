@@ -7,7 +7,7 @@ return [
     ],
 
     'footer' => [
-        'text' => '** TableTopFinder ** es un proyecto creado por Jeroen Deviaene. Este sitio web le ofrece la posibilidad de encontrar juegos de mesa que le gusten con solo buscar algunas palabras clave. Y después de eso, enumeramos los mejores precios europeos para estos juegos de mesa en línea. '
+        'text' => '**TableTopFinder** es un proyecto creado por Jeroen Deviaene. Este sitio web le ofrece la posibilidad de encontrar juegos de mesa que le gusten con solo buscar algunas palabras clave. Y después de eso, enumeramos los mejores precios europeos para estos juegos de mesa en línea. '
     ],
 
     'follow' => [

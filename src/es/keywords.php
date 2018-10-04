@@ -35,7 +35,7 @@ return [
     'money' => 'dinero',
     'pawns' => 'peones',
     'planet' => 'planeta',
-    'planets' => 'planteas',
+    'planets' => 'planetas',
     'tiles' => 'baldosas',
 
 ];
