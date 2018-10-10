@@ -2,7 +2,7 @@
 
 return [
     'cookie' => [
-        'button' => 'Oké, ik wil bordspellen zien!',
+        'button' => 'Oké, ik wil bordspellen vinden!',
         'text' => 'Deze website gebruikt cookies om jou voorkeuren te onthouden. Op deze manier kunnen we de inhoud van de website aanpassen naar wat het belangrijkste is voor jou.',
     ],
 

@@ -2,7 +2,7 @@
 
 return [
     'titles' => [
-        'detail' => 'De beste prijzen op vandaag voor :game',
+        'detail' => ':game kopen aan de beste prijs',
         'expansionfor' => 'Uitbreiding voor :game|Uitbreidingen voor :game',
         'pricetable' => 'Webwinkels'
     ],
@@ -10,6 +10,6 @@ return [
     'hidedeliverycosts' => 'leveringskosten verbergen',
     'more_stores' => 'Meer winkels weergeven',
     'released' => 'uitgebracht',
-    'stock' => 'voorraad|voorraad',
-    'visit' => 'bezoeken|bezoeken'
+    'stock' => 'voorraad',
+    'visit' => 'bezoeken'
 ];
