@@ -16,8 +16,8 @@ return [
     ],
 
     'messages' => [
-        'changesSaved' => 'les changements ont été enregistrés',
-        'postedOn' => 'posté le'
+        'changesSaved' => 'Les changements ont été enregistrés',
+        'postedOn' => 'Posté le'
     ],
 
     'age' => 'âge',
@@ -28,17 +28,17 @@ return [
     'category' => 'catégorie|catégories',
     'close' => 'fermer',
     'country' => 'pays|des pays',
-    'designer' => 'designer|les concepteurs',
+    'designer' => 'designer|concepteurs',
     'discount' => 'remise|remises',
     'delivery' => 'livraison|livraisons',
     'expansion' => 'expansion|expansions',
     'free' => 'gratuit',
     'language' => 'langue|langues',
-    'news' => 'nouvelles',
-    'person' => 'personne|des personnes',
+    'news' => 'actualités',
+    'person' => 'personne|personnes',
     'player' => 'joueur|joueurs',
-    'price' => 'prix|des prix',
-    'publisher' => 'éditeur|les éditeur',
+    'price' => 'prix',
+    'publisher' => 'éditeur|éditeurs',
     'readmore' => 'voir plus',
     'remove' => 'supprimer',
     'reset' => 'réinitialiser',

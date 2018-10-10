@@ -7,9 +7,9 @@ return [
         'pricetable' => 'Webshops'
     ],
 
-    'hidedeliverycosts' => 'cacher les frais de livraison',
+    'hidedeliverycosts' => 'masquer les frais de livraison',
     'more_stores' => 'Montrer plus de magasins',
     'released' => 'publié',
     'stock' => 'stock|stocks',
-    'visit' => 'visiter|visiter'
+    'visit' => 'visite|visites'
 ];
