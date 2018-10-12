@@ -36,6 +36,6 @@ return [
     'pawns' => 'pions',
     'planet' => 'planète',
     'planets' => 'planètes',
-    'tiles' => 'carrelage',
+    'tiles' => 'cases',
 
 ];
